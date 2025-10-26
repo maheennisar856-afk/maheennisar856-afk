@@ -1,4 +1,4 @@
-## Hi there 👋 Iam Maheen Nisar
+## Hi there 👋 I am Maheen Nisar BS Cyber Security Student 
 
 <!--
 **maheennisar856-afk/maheennisar856-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
