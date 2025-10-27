@@ -60,7 +60,7 @@ I'm **Maheen Nisar**, a **Cyber Security student from Pakistan 🇵🇰** passio
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=00FF9C" />
   <img src="https://img.shields.io/badge/Kali%20Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=00FF9C" />
   <img src="https://img.shields.io/badge/NetBeans-000000?style=for-the-badge&logo=apache-netbeans-ide&logoColor=00FF9C" />
-  <img src="https://img.shields.io/badge/Tuitien-000000?style=for-the-badge&logo=codepen&logoColor=00FF9C" />
+  <img src="https://img.shields.io/badge/Turnitin-000000?style=for-the-badge&logo=codepen&logoColor=00FF9C" />
 </p>
 
 ---
